@@ -1,4 +1,4 @@
-built.io-Android-GCM-PUSH-DEMO
+built.io-android-gcm-push-demo
 ==============================
 
 built.io supports notifications for iOS and Android. In Android, push notifications are provided by the GCM (Google Cloud Messaging) Service. To setup GCM, follow: http://developer.android.com/google/gcm/gs.html
